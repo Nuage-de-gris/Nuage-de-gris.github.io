@@ -1,1 +1,8 @@
-
+body {
+	font-family: Georgia, serif;
+	background-color: #87CEEB;
+	height: 50%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}

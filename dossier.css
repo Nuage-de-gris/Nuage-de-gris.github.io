@@ -2,7 +2,7 @@ body {
 	font-family: Georgia, serif;
 	background-color: #87CEEB;
 	height: 50%;
-	margin: 0;
+	margin-left: 2cm;
 	text-align: left;
 	width: 100%;
 }
@@ -18,6 +18,10 @@ h1 {
 
 ul {
 	text-align: left;
-	font-family: Georgia, serif;
 	height: 50%;
+}
+h2 {
+	text-algn: left;
+	margin-left:2cm;
+	
 }

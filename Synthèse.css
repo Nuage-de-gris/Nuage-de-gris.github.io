@@ -1,7 +1,7 @@
 head {
 	margin-top:2cm;
 	margin-left:0.5cm;
-	margin-right:5px;
+	margin-right:0.5cm;
 }
 
 
@@ -11,7 +11,7 @@ body {
 	background-color: #87CEEB;
 	height: 50%;
 	margin-left: 0.5cm;
-	margin-right:0.5cm;
+	margin-right:2cm;
 	text-align: left;
 	width: 100%;
 }
@@ -30,4 +30,8 @@ ul {
 	font-family: Georgia, serif;
 	height: 50%;
 	text-align: left;
+}
+
+p {
+	margin-right:0.5cm;
 }
